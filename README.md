@@ -2,7 +2,7 @@
 Real Time Bus Tracker
 # Description
 This Project is part of the [MIT xPro Full Stack Development Course]. It lets the user find the geographical location of a country.
-Technologies used are HTML, CSS, Bootstrap, and Javascript along with the mapboxgl and the Countries API. 
+Technologies used are HTML, CSS, Bootstrap, and Javascript along with the mapboxgl and the Countries API. This is the implementation of the Real-Time-Bus-Tracker exercise but has been modified to use the Countries and Cities API along with maxboxgl API for geographical representation.
 
 # How to run
 * Method 1: Clone the repo and open the _index.html_ file in any browser of your choice.
